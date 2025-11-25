@@ -53,3 +53,4 @@ public class MainClass {
         System.out.println(ahm.trierMap());
     }
 }
+
